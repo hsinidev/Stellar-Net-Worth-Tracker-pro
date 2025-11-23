@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Net Worth Tracker",
+  "description": "A modern, secure application to track your assets and liabilities, calculate your net worth in real-time, and visualize your financial health against an animated galaxy background. All data is securely managed using Firebase Firestore.",
+  "requestFramePermissions": []
+}
