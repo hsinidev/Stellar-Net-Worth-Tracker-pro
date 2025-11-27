@@ -11,7 +11,7 @@
     Feature-rich, SEO-optimized, and set against an immersive animated galaxy background.
     <br />
     <br />
-    <a href="https://WorthTracker.doodax.com" target="_blank"><strong>🚀 LIVE DEMO: WorthTracker.doodax.com</strong></a>
+    <a href="https://doodax.com/tools/stellar-net-worth/index.html" target="_blank"><strong>🚀 LIVE DEMO: doodax.com</strong></a>
     <br />
     <br />
     <a href="https://github.com/hsinidev/stellar-net-worth-tracker/issues">Report Bug</a>
